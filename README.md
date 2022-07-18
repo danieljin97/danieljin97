@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @danieljin97
-- 🌱 I’m currently learning Phyton, SQL and C
-- 📫 How to reach me: daniel.jin97@gmail.com
+- 🌱 I’m currently learning Phyton, SQL
 
 <!---
 danieljin97/danieljin97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
